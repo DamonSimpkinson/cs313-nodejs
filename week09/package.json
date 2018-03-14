@@ -1,0 +1,16 @@
+{
+  "name": "week09",
+  "version": "1.0.0",
+  "description": "Postal Rate Calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .cs313-php/web/week09/index.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*"
+  },
+  "author": "Damon Simpkinson",
+  "license": "ISC"
+}

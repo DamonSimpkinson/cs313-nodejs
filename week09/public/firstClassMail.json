@@ -1,0 +1,172 @@
+[
+  {
+    "type": "stamped",
+    "weight": 1,
+    "cost": "0.50"
+  },
+  {
+    "type": "stamped",
+    "weight": 2,
+    "cost": "0.71"
+  },
+  {
+    "type": "stamped",
+    "weight": 3,
+    "cost": "0.92"
+  },
+  {
+    "type": "stamped",
+    "weight": 3.5,
+    "cost": "1.13"
+  },
+  {
+    "type": "metered",
+    "weight": 1,
+    "cost": "0.47"
+  },
+  {
+    "type": "metered",
+    "weight": 2,
+    "cost": "0.68"
+  },
+  {
+    "type": "metered",
+    "weight": 3,
+    "cost": "0.89"
+  },
+  {
+    "type": "metered",
+    "weight": 3.5,
+    "cost": "1.10"
+  },
+  {
+    "type": "flat",
+    "weight": 1,
+    "cost": "1.00"
+  },
+  {
+    "type": "flat",
+    "weight": 2,
+    "cost": "1.21"
+  },
+  {
+    "type": "flat",
+    "weight": 3,
+    "cost": "1.42"
+  },
+  {
+    "type": "flat",
+    "weight": 4,
+    "cost": "1.63"
+  },
+  {
+    "type": "flat",
+    "weight": 5,
+    "cost": "1.84"
+  },
+  {
+    "type": "flat",
+    "weight": 6,
+    "cost": "2.05"
+  },
+  {
+    "type": "flat",
+    "weight": 7,
+    "cost": "2.26"
+  },
+  {
+    "type": "flat",
+    "weight": 8,
+    "cost": "2.47"
+  },
+  {
+    "type": "flat",
+    "weight": 9,
+    "cost": "2.68"
+  },
+  {
+    "type": "flat",
+    "weight": 10,
+    "cost": "2.89"
+  },
+  {
+    "type": "flat",
+    "weight": 11,
+    "cost": "3.10"
+  },
+  {
+    "type": "flat",
+    "weight": 12,
+    "cost": "3.31"
+  },
+  {
+    "type": "flat",
+    "weight": 13,
+    "cost": "3.52"
+  },
+  {
+    "type": "package",
+    "weight": 1,
+    "cost": "3.50"
+  },
+  {
+    "type": "package",
+    "weight": 2,
+    "cost": "3.50"
+  },
+  {
+    "type": "package",
+    "weight": 3,
+    "cost": "3.50"
+  },
+  {
+    "type": "package",
+    "weight": 4,
+    "cost": "3.50"
+  },
+  {
+    "type": "package",
+    "weight": 5,
+    "cost": "3.75"
+  },
+  {
+    "type": "package",
+    "weight": 6,
+    "cost": "3.75"
+  },
+  {
+    "type": "package",
+    "weight": 7,
+    "cost": "3.75"
+  },
+  {
+    "type": "package",
+    "weight": 8,
+    "cost": "3.75"
+  },
+  {
+    "type": "package",
+    "weight": 9,
+    "cost": "4.10"
+  },
+  {
+    "type": "package",
+    "weight": 10,
+    "cost": "4.45"
+  },
+  {
+    "type": "package",
+    "weight": 11,
+    "cost": "4.80"
+  },
+  {
+    "type": "package",
+    "weight": 12,
+    "cost": "5.15"
+  },
+  {
+    "type": "package",
+    "weight": 13,
+    "cost": "5.50"
+  }
+]

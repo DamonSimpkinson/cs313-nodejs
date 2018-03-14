@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>Postal Rate Calculator</title>
+  <script type="text/javascript" src="week09.js"></script>
+</head>
+<body>
+  <h1>Welcome to the Postage Calculator</h1>
+  <h3>Select Your Mail Information Below</h3>
+  <form action="/mail" method="get">
+    <div onClick="check();">
+      <input type="radio" name="mailType" id="stamped" value="stamped">Stamped<br/>
+      <input type="radio" name="mailType" id="metered" value="metered">Metered<br/>
+      <input type="radio" name="mailType" id="flat" value="flat">Flat<br/>
+      <input type="radio" name="mailType" id="package" value="package">Package<br/>
+    </div>
+    <br/>
+    <p>Enter Mail Weight in Ounces:</p>
+    <input type="text" id="mailWeight" name="mailWeight">
+    <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
